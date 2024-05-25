@@ -16,7 +16,7 @@ $(call inherit-product, vendor/twrp/config/common.mk)
 $(call inherit-product, device/oscal/Pad13_NEU/device.mk)
 
 PRODUCT_DEVICE := Pad13_NEU
-PRODUCT_NAME := Pad13_NEU
+PRODUCT_NAME := twrp_Pad13_NEU
 PRODUCT_BRAND := OSCAL
 PRODUCT_MODEL := Pad 13
 PRODUCT_MANUFACTURER := oscal
