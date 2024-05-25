@@ -5,7 +5,3 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-COMMON_LUNCH_CHOICES := \
-    twrp_Pad13_NEU-eng \
-    twrp_Pad13_NEU-user \
-    twrp_Pad13_NEU-userdebug
