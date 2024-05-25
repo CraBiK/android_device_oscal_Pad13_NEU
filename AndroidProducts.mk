@@ -6,9 +6,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_Pad13_NEU.mk
+    $(LOCAL_DIR)/twrp_Pad13_NEU.mk
 
 COMMON_LUNCH_CHOICES := \
-    omni_Pad13_NEU-user \
-    omni_Pad13_NEU-userdebug \
-    omni_Pad13_NEU-eng
+    Pad13_NEU-user \
+    Pad13_NEU-userdebug \
+    Pad13_NEU-eng
