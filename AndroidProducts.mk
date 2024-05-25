@@ -9,6 +9,6 @@ PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/twrp_Pad13_NEU.mk
 
 COMMON_LUNCH_CHOICES := \
-    twrp_Pad13_NEU-eng \
     twrp_Pad13_NEU-user \
-    twrp_Pad13_NEU-userdebug
+    twrp_Pad13_NEU-userdebug \
+    twrp_Pad13_NEU-eng
