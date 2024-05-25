@@ -6,6 +6,6 @@
 #
 
 COMMON_LUNCH_CHOICES := \
-    Pad13_NEU-eng \
-    Pad13_NEU-user \
-    Pad13_NEU-userdebug
+    twrp_Pad13_NEU-eng \
+    twrp_Pad13_NEU-user \
+    twrp_Pad13_NEU-userdebug
