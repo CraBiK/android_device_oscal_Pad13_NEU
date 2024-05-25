@@ -5,6 +5,7 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-add_lunch_combo Pad13_NEU-user
-add_lunch_combo Pad13_NEU-userdebug
-add_lunch_combo Pad13_NEU-eng
+COMMON_LUNCH_CHOICES := \
+    Pad13_NEU-eng \
+    Pad13_NEU-user \
+    Pad13_NEU-userdebug
